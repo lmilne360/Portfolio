@@ -49,7 +49,7 @@
     },
     {
       title: 'Canvas ',
-      description: 'A Citi fintech Web App for building out products and teams',
+      description: 'A Citi Fintech web application for building out products and teams',
       links: [
         {
           label: 'CASE STUDY',

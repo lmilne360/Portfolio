@@ -22,7 +22,7 @@
 <div class="aboutSection__content">
   <p>Hello, I am Laurent Milne!</p>
   <p>
-    I am a Web Developer, Gamer, and life hacker.
+    I am a Web Developer, Gamer, and Tech Enthusiast.
   </p>
   <p>
     I am currently part of a small team of thought leaders that are dedicated to creating meaningful connections between brands and people.
